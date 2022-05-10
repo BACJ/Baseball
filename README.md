@@ -1,7 +1,5 @@
-# Baseball
 <html> 
 <head> 
-<title></title> 
 </head> 
 <body> 
 <h1> El Béisbol </h1> 
